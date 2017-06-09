@@ -1,9 +1,9 @@
 package recordvideo.ekta.com.keddit_kotlin
 
-import android.app.Fragment
 import android.app.FragmentManager
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import recordvideo.ekta.com.keddit_kotlin.news.NewsFragment
 
 class MainActivity : AppCompatActivity() {
 
